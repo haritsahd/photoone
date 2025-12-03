@@ -21,9 +21,5 @@ Dibuat menggunakan HTML, CSS, dan JavaScript murni.
 - `index.html` — halaman utama
 - `frame.png` — frame dekorasi (opsional)
 
-## 🌐 Deploy
-Website live melalui GitHub Pages:
-https://username.github.io/photobooth/
-
 ## 📄 Lisensi
 Free to use.
